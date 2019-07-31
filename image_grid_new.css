@@ -1,0 +1,32 @@
+body{
+	padding-top: 30px;
+	padding-bottom:30px; 
+	font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron{
+	color:#2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse{
+	background: #2c3e50;  /*to change bg color of navbar*/
+}
+
+
+
+.navbar-inverse .navbar-nav>li>a {
+	color:white;    
+}
+
+.navbar-inverse .navbar-brand{
+	color:white;
+}
+
+.navbar-inverse .navbar-brand:hover{
+	color:gray;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	color:gray;
+}
